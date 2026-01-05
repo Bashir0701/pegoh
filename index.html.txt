@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <title>SK Pegoh Melaka</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Sekolah Kebangsaan Pegoh, Melaka</h1>
+    <p>Melahirkan Murid Cemerlang Dunia & Akhirat</p>
+</header>
+
+<nav>
+    <a href="#pengenalan">Pengenalan</a>
+    <a href="#sejarah">Sejarah</a>
+    <a href="#hem">HEM</a>
+    <a href="#guru">Maklumat Guru</a>
+    <a href="#galeri">Galeri</a>
+</nav>
+
+<section id="pengenalan">
+    <h2>Pengenalan</h2>
+    <p>
+        Sekolah Kebangsaan Pegoh terletak di Melaka dan merupakan sebuah sekolah
+        yang komited dalam melahirkan murid berilmu, berakhlak dan berdaya saing.
+    </p>
+</section>
+
+<section id="sejarah">
+    <h2>Sejarah Sekolah</h2>
+    <p>
+        Sekolah Kebangsaan Pegoh telah ditubuhkan bagi memenuhi keperluan pendidikan
+        masyarakat setempat dan terus berkembang selaras dengan arus pendidikan negara.
+    </p>
+</section>
+
+<section id="hem">
+    <h2>Hal Ehwal Murid (HEM)</h2>
+
+    <h3>1. Disiplin</h3>
+    <p>
+        Unit Disiplin bertanggungjawab memastikan murid mematuhi peraturan sekolah
+        serta membentuk sahsiah dan akhlak yang baik.
+    </p>
+
+    <h3>2. Pengawas</h3>
+    <p>
+        Lembaga Pengawas Sekolah membantu guru dalam menjaga disiplin dan menjadi
+        contoh teladan kepada murid lain.
+    </p>
+
+    <h3>3. Program</h3>
+    <p>
+        Pelbagai program HEM dilaksanakan seperti program sahsiah, motivasi,
+        kepimpinan dan kebajikan murid.
+    </p>
+</section>
+
+<section id="guru">
+    <h2>Maklumat Guru</h2>
+
+    <h3>Profil Guru</h3>
+    <ul>
+        <li>Guru Besar: __________________</li>
+        <li>Penolong Kanan Pentadbiran: __________________</li>
+        <li>Penolong Kanan HEM: __________________</li>
+        <li>Penolong Kanan Kokurikulum: __________________</li>
+    </ul>
+
+    <h3>Jadual Guru</h3>
+    <table>
+        <tr>
+            <th>Nama Guru</th>
+            <th>Mata Pelajaran</th>
+            <th>Kelas</th>
+        </tr>
+        <tr>
+            <td>Cikgu Ahmad</td>
+            <td>Bahasa Melayu</td>
+            <td>5 Bestari</td>
+        </tr>
+        <tr>
+            <td>Cikgu Aisyah</td>
+            <td>Matematik</td>
+            <td>4 Cemerlang</td>
+        </tr>
+    </table>
+</section>
+
+<section id="galeri">
+    <h2>Galeri Sekolah</h2>
+    <div class="gallery">
+        <div class="gambar">Gambar 1</div>
+        <div class="gambar">Gambar 2</div>
+        <div class="gambar">Gambar 3</div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Sekolah Kebangsaan Pegoh, Melaka</p>
+</footer>
+
+</body>
+</html>
